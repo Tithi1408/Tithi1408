@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Tithi Patel</h1>
 <h3 align="center">A final year student of VIT Bhopal</h3>
 
-<p align="left"> <img src=""C:\Users\tithi\Pictures\Saved Pictures\IMG_E2940.jpeg"" alt="Tithi1408" /> </p>
+<p align="left"> <img src="""" alt="Tithi1408" /> </p>
 
 👨‍💻 Python Developer | Business Analyst 
 
