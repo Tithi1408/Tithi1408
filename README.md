@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Tithi Patel</h1>
 <h3 align="center">A final year student of VIT Bhopal</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Tithi1408&label=Profile%20views&color=0e75b6&style=flat" alt="Tithi1408" /> </p>
 
 👨‍💻 Python Developer | Business Analyst 
 
