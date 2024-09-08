@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Tithi Patel</h1>
-<h3 align="center">A final year student of VIT Bhopal</h3>
+<h3 align="center"></h3>
 
 
 👨‍💻 Python Developer | Business Analyst 
